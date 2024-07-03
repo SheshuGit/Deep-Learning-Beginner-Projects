@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Deep Learning Projects
 
 This repository contains a collection of machine learning and deep learning projects demonstrating various algorithms and techniques in Python using Jupyter Notebooks.
 
